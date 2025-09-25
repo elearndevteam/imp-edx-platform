@@ -2008,6 +2008,7 @@ LANGUAGES = [
     ('sl', 'Slovenščina'),  # Slovenian
     ('sq', 'shqip'),  # Albanian
     ('sr', 'Српски'),  # Serbian
+    ('sr-Latn', 'Srpski'),  # Serbian
     ('sv', 'svenska'),  # Swedish
     ('sw', 'Kiswahili'),  # Swahili
     ('ta', 'தமிழ்'),  # Tamil
