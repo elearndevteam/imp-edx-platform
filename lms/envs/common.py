@@ -2008,6 +2008,7 @@ LANGUAGES = [
     ('sl', 'Slovenščina'),  # Slovenian
     ('sq', 'shqip'),  # Albanian
     ('sr', 'Српски'),  # Serbian
+    ('sr_Latn', 'Srpski'),  # Serbian
     ('sv', 'svenska'),  # Swedish
     ('sw', 'Kiswahili'),  # Swahili
     ('ta', 'தமிழ்'),  # Tamil
@@ -4045,6 +4046,7 @@ ALL_LANGUAGES = [
     ["es", "Spanish"],
     ["sc", "Sardinian"],
     ["sr", "Serbian"],
+    ["sr_Latn", "SerbianLatn"],
     ["ss", "Swati"],
     ["su", "Sundanese"],
     ["sw", "Swahili"],
